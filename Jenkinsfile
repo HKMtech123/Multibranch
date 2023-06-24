@@ -4,7 +4,7 @@ pipeline{
     stage('a')
     {
       steps{
-        echo "Master Branch"
+        echo "Test Branch"
     }
     
   }
